@@ -7,3 +7,12 @@ This paper begins by suggesting that a patchwork of heuristics might be more use
 proposed by Sutcliffe and Gault by looking at papers to see if they used the heuristics and if they found them useful. The papers they looked at only used some of the selected heuristics proposed and not many people used them without adapting them to suit themselves. They bring up the idea of using a patchwork system to decided on the heuristics which I personally believe to be a good idea as you can merge patches that your software fits into and pick the heuristics from there and only get ones which are relevant which will save time on checking pointless heuristics for you. The heuristic evaluation results are useful to us as students because it helps give us a clear idea of how to do it ourselves which is useful as heuristics tests can be used to test software/games and uncover all the problems. The results also showed that only ten out of the twelves heuristic category's had issues with them because the other 2 didn't make an appearance in the simulator which is why they suggest taking current heuristic tests and modifying it to fit the purpose. This paper is helping us to understand heuristics tests and how helpful they can be when used right.
 
 ## Investigating the balance between virtuality and reality in mobile mixed reality UI design: user perception of an augmented city
+
+
+## Homuncular Flexibility in Virtual Reality.
+
+
+## (Re-)examination of multimodal augmented reality
+
+
+## Real Virtuality: A Code of Ethical Conduct. Recommendations for Good Scientific Practice and the Consumers of VR-Technology
